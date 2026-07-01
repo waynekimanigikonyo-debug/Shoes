@@ -1,4 +1,4 @@
-# Sole Vibe Shoes Storefront
+# Sole Vibe Shoes
 
 A clean, modern, and fully responsive e-commerce landing page built using semantic HTML5 and styled with Tailwind CSS. This project showcases a curated selection of footwear with product cards tailored for an optimal shopping experience across all device sizes.
 
